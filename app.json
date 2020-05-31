@@ -1,7 +1,7 @@
 {
-  "name": "OneManager",
-  "description": "Deploy OneManager to heroku",
-  "website": "https://github.com/qkqpttgf/OneManager-php",
-  "repository": "https://github.com/qkqpttgf/OneManager-php",
+  "name": "RX100 Drive",
+  "description": "RX100 Mani5GRockers",
+  "website": "https://github.com/Mani5GRockers/OneManager-php",
+  "repository": "https://github.com/Mani5GRockers/OneManager-php",
   "success_url": "/"
 }
