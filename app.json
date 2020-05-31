@@ -1,10 +1,4 @@
-{
-  "name": "RX100 Drive",
-  "description": "RX100 Mani5GRockers",
-  "website": "https://github.com/Mani5GRockers/OneManager-php",
-  "repository": "https://github.com/Mani5GRockers/OneManager-php",
-  "success_url": "/"
-}
+
 
     public static $config = [
         'name' => 'root',
